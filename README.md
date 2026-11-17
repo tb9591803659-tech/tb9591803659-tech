@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ANIMATED FUTURISTIC HERO BANNER (CAPSULE-RENDER) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B192C,75:1E1B4B,100:090D16&height=230&section=header&text=SHASHANK%20T&fontSize=56&fontColor=00F5D4&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%26%20DATA%20SCIENCE%20UNDERGRADUATE&descSize=16&descAlignY=60&descColor=A855F7&animation=fadeIn" alt="Shashank T Futuristic Banner" />
+  <img width="100%" src="./banner.svg" alt="Shashank T Futuristic Banner" />
 
   <!-- ANIMATED TYPING HUD SUBTITLE -->
   <a href="https://github.com/tb9591803659-tech">
